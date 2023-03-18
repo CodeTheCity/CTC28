@@ -1,35 +1,28 @@
 # CTC28
 Connections hack weekend 18-19 March 2023
 
-Over the weekend we had 21 people on Saturday, and 16 on Sunday, come together to work on four projects from the [seven that had been suggested](https://docs.google.com/document/d/1RIDa8fwadkfzrweHgobmgSLUO_fswNOmlXTMYlH64NY/edit#) prior to the event. 
+Over the weekend we had 16 people on Saturday, and x on Sunday, come together to work on four projects from the [seven that had been suggested](https://docs.google.com/document/d/1RIDa8fwadkfzrweHgobmgSLUO_fswNOmlXTMYlH64NY/edit#) prior to the event. 
 
 ## The Projects 
 The x projects which attendees worked on over the weekend were 
 
-### ???
+### Connect the City
 
-This is
+This is aimed at finding who participated in which CTC projects
 
-- [Project Repo(s)](https://github.com/opendatascotland)
+- [Project Repo(s)](https://https://github.com/CodeTheCity/connect_the_city)
 
-### ????
+### Tin Foil Hat
 
-Collating and building resource for teachers and learners
+A project collating Freedom of Information (FOI) requests in Scotland, which was originally started in CTC1 in June 2014
 
-- [Project Repo](https://github.com/CompSciScotland)
+- [Project Repo](https://github.com/CodeTheCity/tinfoilhat)
 
 
-### ????
+### WikiData Connections Editathon
 
-Continuing ...
+Focusing on University of Aberdeen information
 
-(Although only the basic quiz machine hardware software minus wikidata-powered quizzed was implemented during the event.)
+- [Project Page](https://outreachdashboard.wmflabs.org/courses/CTC_and_WMUK/CTC28_-_Connections_Editathon_(18_March_2023)/home)
 
-- [Project Repo](https://github.com/CodeTheCity/quizzical)
-
-### FOI Requests
-
-Helping you people find relevant FOI requests
-
- - [Project Repo](https://github.com/CodeTheCity/CTC27_CodeMaps)
 
