@@ -14,7 +14,7 @@ This is aimed at finding who participated in which CTC projects
 
 ### Tin Foil Hat
 
-A project collating Freedom of Information (FOI) requests in Scotland, which was originally started in CTC1 in June 2014
+A project collating Freedom of Information (FOI) requests in Scotland, which was originally started in [CTC1 in June 2014](http://watty62.co.uk/2014/10/a-scotland-wide-foi-search-facility/)
 
 - [Project Repo](https://github.com/CodeTheCity/tinfoilhat)
 
