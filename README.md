@@ -10,7 +10,7 @@ The x projects which attendees worked on over the weekend were
 
 This is aimed at finding who participated in which CTC projects
 
-- [Project Repo(s)](https://https://github.com/CodeTheCity/connect_the_city)
+- [Project Repo(s)](https://github.com/CodeTheCity/connect_the_city)
 
 ### Tin Foil Hat
 
