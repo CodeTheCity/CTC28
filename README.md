@@ -36,7 +36,7 @@ A project focusing on guidelines for computer security based on what's visible u
 Focusing on University of Aberdeen information in WikiData and Wikipedia
 
 - [Project Page](https://outreachdashboard.wmflabs.org/courses/CTC_and_WMUK/CTC28_-_Connections_Editathon_(18_March_2023)/home)
-- 
+
 #### Rectors
 
 - [Source on Wikipedia](https://en.wikipedia.org/wiki/Rector_of_the_University_of_Aberdeen#Rector_of_King's_College,_Aberdeen)
