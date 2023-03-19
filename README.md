@@ -50,6 +50,6 @@ A hardware project using an RP2040 and RFID card reader for indicating mood and 
 
 - [Project Page](https://github.com/CodeTheCity/rp2040-mood-cards)
 
-#### Skills and Careers
+### Skills and Careers
 
 A project to identofy key skills for IT-based roles, with the aim of matching pupils' interests and capabilities to match them to careers.
