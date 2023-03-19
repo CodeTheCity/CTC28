@@ -24,6 +24,12 @@ A project focusing on peer to peer data science organised by [James Littlejohn](
 
 - [Project Repo](https://github.com/healthscience/bentobox-ds-website)
 
+### Hacktivists
+
+A project focusing on ...
+
+- [Project Repo](https://github.com/CodeTheCity/hactivists)
+
 
 ### WikiData Connections Editathon
 
