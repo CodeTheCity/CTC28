@@ -4,7 +4,7 @@ Connections hack weekend 18-19 March 2023
 Over the weekend we had 18 people on Saturday, and 15 on Sunday, come together to work on four projects from the [seven that had been suggested](https://docs.google.com/document/d/1UFoX6XbpXwgT6uAILBGQ4hTM9ygZNPJHFKKkvOu6N2I/view)#) prior to the event. 
 
 ## The Projects 
-The x projects which attendees worked on over the weekend were 
+The 7 projects which attendees worked on over the weekend were 
 
 ### Connect the City
 
@@ -50,3 +50,6 @@ A hardware project using an RP2040 and RFID card reader for indicating mood and 
 
 - [Project Page](https://github.com/CodeTheCity/rp2040-mood-cards)
 
+#### Skills and Careers
+
+A project to identofy key skills for IT-based roles, with the aim of matching pupils' interests and capabilities to match them to careers.
