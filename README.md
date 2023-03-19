@@ -37,4 +37,9 @@ Focusing on University of Aberdeen information in WikiData and Wikipedia
 
 - [Project Page](https://outreachdashboard.wmflabs.org/courses/CTC_and_WMUK/CTC28_-_Connections_Editathon_(18_March_2023)/home)
 
+### RP2040 Mood Cards
+
+A hardware project using an RP2040 and RFID card reader for indicating mood and desire to connect with others.
+
+- [Project Page](https://github.com/CodeTheCity/rp2040-mood-cards)
 
