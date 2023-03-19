@@ -31,11 +31,14 @@ A project focusing on guidelines for computer security based on what's visible u
 - [Project Repo](https://github.com/CodeTheCity/hactivists)
 
 
-### WikiData Connections Editathon
+### WikiData and Wikipedia Connections Editathon
 
 Focusing on University of Aberdeen information in WikiData and Wikipedia
 
 - [Project Page](https://outreachdashboard.wmflabs.org/courses/CTC_and_WMUK/CTC28_-_Connections_Editathon_(18_March_2023)/home)
+- [Wikidata query for Rectors of University of Aberdeen](https://w.wiki/6Tib)
+- [Wikidata query for Rectors of King's College](https://w.wiki/6Tid)
+- [Wikidata query for Rectors of Marischal College](https://w.wiki/6Tif) - from 1800 to 1858
 
 ### RP2040 Mood Cards
 
